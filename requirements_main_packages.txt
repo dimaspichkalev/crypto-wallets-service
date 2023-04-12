@@ -1,0 +1,7 @@
+django
+djangorestframework
+drf-yasg
+pytest-django
+web3
+eth-tester
+py-evm
